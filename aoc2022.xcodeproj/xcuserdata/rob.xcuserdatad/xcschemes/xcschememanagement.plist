@@ -4,10 +4,963 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>AOC 2022 Day 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Day 1 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 2 copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>37</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 2 copy 3.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>38</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 2 copy 4.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>39</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 2 copy 5.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>40</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 2 copy 6.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>41</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 2 copy 7.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>42</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 2 copy 8.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>43</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 2 copy 9.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>44</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 2 copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>36</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 3 copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>46</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 3 copy 3.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>47</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 3 copy 4.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>48</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 3 copy 5.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>49</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 3 copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>45</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 3.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>28</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 4.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>29</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy 5.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>30</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>32</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy 3.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>33</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy 4.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>34</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy 5.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>35</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>31</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Day 1 Part 2 copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Day 1 Part 2 copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Day 1 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Day 10 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>Day 10 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>49</integer>
+		</dict>
+		<key>Day 11 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>Day 11 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>Day 12 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>Day 12 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>Day 13 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>Day 13 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+		<key>Day 14 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
+		<key>Day 14 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
+		<key>Day 15 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>Day 15 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
+		<key>Day 16 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>28</integer>
+		</dict>
+		<key>Day 16 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>29</integer>
+		</dict>
+		<key>Day 17 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>30</integer>
+		</dict>
+		<key>Day 17 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>31</integer>
+		</dict>
+		<key>Day 18 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>32</integer>
+		</dict>
+		<key>Day 18 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>33</integer>
+		</dict>
+		<key>Day 19 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>34</integer>
+		</dict>
+		<key>Day 19 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>35</integer>
+		</dict>
+		<key>Day 2 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Day 2 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Day 20 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>36</integer>
+		</dict>
+		<key>Day 20 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>37</integer>
+		</dict>
+		<key>Day 21 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>38</integer>
+		</dict>
+		<key>Day 21 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>39</integer>
+		</dict>
+		<key>Day 22 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>40</integer>
+		</dict>
+		<key>Day 22 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>41</integer>
+		</dict>
+		<key>Day 23 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>42</integer>
+		</dict>
+		<key>Day 23 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>47</integer>
+		</dict>
+		<key>Day 24 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>43</integer>
+		</dict>
+		<key>Day 24 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>44</integer>
+		</dict>
+		<key>Day 25 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>45</integer>
+		</dict>
+		<key>Day 25 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>48</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 2 copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>82</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 2 copy 3.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>83</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 2 copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>81</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>76</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 3 copy copy 2 copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>94</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 3 copy copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>86</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 3 copy copy 3.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>87</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 3 copy copy 4.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>88</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 3 copy copy 5.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>89</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 3 copy copy copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>91</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 3 copy copy copy 3.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>92</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 3 copy copy copy 4.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>93</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 3 copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>90</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 3 copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>85</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 3 copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>84</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 3.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>77</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 4.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>78</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 5.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>79</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy 6.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>80</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2 copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>75</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>74</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2 copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>73</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>72</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>71</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>70</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2 copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>69</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>68</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>67</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>66</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>65</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>64</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>63</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>62</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>61</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>60</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>59</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>58</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>57</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>56</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>55</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>54</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>53</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>52</integer>
+		</dict>
+		<key>Day 3 Part 1 copy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>51</integer>
+		</dict>
+		<key>Day 3 Part 1 copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>50</integer>
+		</dict>
+		<key>Day 3 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Day 3 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>46</integer>
+		</dict>
+		<key>Day 4 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Day 4 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>Day 5 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>Day 5 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>Day 6 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>Day 6 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>Day 7 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>Day 7 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>Day 8 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>Day 8 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>Day 9 Part 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>Day 9 Part 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
 		<key>aoc2022.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>aoc2022d1p1 copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D460092329394E7E005943C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D460092C2939519E005943C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4962EFA29395AAF00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4962F0529395AB000F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4962F1029395AB000F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496311829395B7600F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496312129395B7600F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496312A29395B7700F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496313329395B7700F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496313C29395B7800F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496315129395C1E00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496315A29395C2300F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496316329395C2300F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496316C29395C2400F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496317529395C2400F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496317E29395C2500F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496318729395C2500F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496319029395C2600F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D49631A229395C2700F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D49631AB29395C2700F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D49631B429395C2800F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D49631BD29395C2800F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D49631C629395C2900F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D49631CF29395C2900F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D49631D829395C2A00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D49631E129395C2A00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D49631EA29395C2B00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D49631F329395C2B00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D49631FC29395C2C00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496320529395C2C00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496320E29395C2D00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496321729395C2D00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496322029395C2E00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496322929395C2E00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496323229395C2F00F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496323B29395C3000F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496324429395C3000F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496324D29395C3100F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496325629395C3300F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496325F29395C3400F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496326829395C3400F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496327129395C3500F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496327A29395C3600F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496328C29395C3700F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D496329529395C3800F80EF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
